@@ -1,0 +1,3 @@
+[submodule "jbehave-training"]
+	path = jbehave-training
+	url = git@github.com:trucolo/jbehave-training.git
